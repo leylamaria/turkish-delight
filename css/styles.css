@@ -3,23 +3,20 @@ body {
 }
 
 h1,
-p {
+p,
+footer {
   text-align: center;
 }
-img {
+
+footer a {
+  color: #570e10;
+  margin: 10px;
+}
+
+.lokum-picture {
   display: block;
   border-radius: 10px;
   border: 3px solid #570e10;
   margin: 30px auto;
-  max-width: 600px;
-}
-
-.navigation-links {
-  display: flex;
-  justify-content: center;
-}
-
-.navigation-links a {
-  color: #570e10;
-  margin: 10px;
+  max-width: 100%;
 }
