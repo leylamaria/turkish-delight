@@ -1,5 +1,5 @@
 body {
-  background-color: #460d11;
+  background-color: #838b73;
 }
 
 h1,
@@ -9,7 +9,7 @@ p {
 img {
   display: block;
   border-radius: 10px;
-  border: 3px solid rgb(147, 143, 43, 0.9);
+  border: 3px solid #570e10;
   margin: 30px auto;
   max-width: 600px;
 }
@@ -20,6 +20,6 @@ img {
 }
 
 .navigation-links a {
-  color: rgb(147, 143, 43);
+  color: #570e10;
   margin: 10px;
 }
